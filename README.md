@@ -45,6 +45,7 @@ The following can be installed on Debian and probably Ubuntu by typing
 
 ## 4. Installation
 
+If you can't look at this and figure out how to install it, **PLEASE DO NOT TRY**.  Thanks!
 
 ## 5. Usage
 
