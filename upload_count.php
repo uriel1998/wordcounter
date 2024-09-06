@@ -26,7 +26,7 @@ session_start(); // Start PHP session for rate-limiting
 
 // Rate limit configuration
 $maxUploads = 3; // Maximum number of uploads
-$timeWindow = 6; // Time window in seconds (e.g., 600 = 10 minutes)
+$timeWindow = 600; // Time window in seconds (e.g., 600 = 10 minutes)
 
 // Allowed file extensions and MIME types
 $allowedExtensions = ['mkd', 'md', 'doc', 'docx', 'pdf', 'odt', 'txt'];
